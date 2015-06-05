@@ -3,8 +3,3 @@
 2
 3
 4
-<<<<<<< HEAD
-5a
-=======
-5adfj;asjdf;aj
->>>>>>> testing
